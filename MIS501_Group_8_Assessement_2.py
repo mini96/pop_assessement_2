@@ -14,7 +14,7 @@ def display_main_menu():
     print("4. Quit Application")
     return input("Enter your choice (1-4): ")
 
-# ===== Part 1: Fleet Management (Skeleton) =====
+# ===== Part 1: Fleet Management - ABDUL SECTION =====
 def fleet_management():
     """Fleet Management submenu   """
     while True:
@@ -39,7 +39,7 @@ def fleet_management():
         else:
             print("Invalid choice. Try again.")
 
-# ===== Part 2: Shipment Management (Fully Implemented) =====
+# ===== Part 2: Shipment Management - MENE SECTION =====
 def shipment_management():
     """Shipment Management submenu   """
     while True:
@@ -124,7 +124,7 @@ def view_shipments():
         print(f"{shipment[0]}\t{shipment[1]}\t{shipment[2]}\t{shipment[3]}\t{shipment[4]}\t{shipment[5]}")
     print("\nTo exit the menu, type 'Exit'.")
 
-# ===== Part 3: Delivery Management (Skeleton) =====
+# ===== Part 3: Delivery Management (Skeleton) - SUMMER SECTION =====
 def delivery_management():
     """Delivery Management submenu   """
     while True:
