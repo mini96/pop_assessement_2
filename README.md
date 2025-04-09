@@ -1,7 +1,7 @@
 # Transportation Logistics System - MIS501 Assessment 2
 
-**Group Members:** [Your Names]
-**Due Date:** [Submission Deadline]
+
+**Due Date:** April 13, 2025
 
 ## Overview
 This Python program implements a Transportation Logistics System with three main modules:
@@ -63,12 +63,3 @@ Implement these features:
 - Verify edge cases work properly
 - Ensure program doesn't crash on invalid inputs
 
-## Submission Requirements
-- Completed solution.py with all functions implemented
-- Flowchart diagram (if required)
-- All files submitted by the deadline
-
-## Collaboration
-- Coordinate with team members on who implements which parts
-- Test the integrated program before submission
-- Contact [Your Contact Info] with any questions
